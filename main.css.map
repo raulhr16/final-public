@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/raulhr/hugo/final-1",
+	"sourceRoot": "/home/raulhr/hugo/tema",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",
